@@ -70,7 +70,7 @@
     "less3": "npm:less@^3.13.1",
     "node-sass": "^8.0.0",
     "npm-run-all2": "^5.0.2",
-    "postcss": "^8.4.27",
+    "postcss": "^8.5.6",
     "postcss-less": "^6.0.0",
     "prettier": "^2.8.8",
     "sass": "^1.64.1",
